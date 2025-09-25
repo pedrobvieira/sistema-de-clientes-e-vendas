@@ -65,5 +65,5 @@ Para rodar este projeto no seu computador, siga os passos abaixo:
 
 ## Contato
 - Desenvolvido por: Pedro Brum Vieira
-- GitHub: [Link para seu perfil do GitHub]
-- LinkedIn: [Link para seu perfil do LinkedIn]
+- GitHub: https://github.com/pedrobvieira
+- LinkedIn: https://www.linkedin.com/in/pedro-brum-vieira-68583b215/
