@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/clients/';
+const API_URL = 'https://sistema-de-clientes-api.onrender.com/api/auth/';
 
 // Pegar o token do usuário logado
 const getToken = () => {
